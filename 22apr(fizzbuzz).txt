@@ -1,0 +1,7 @@
+var output = [];
+var count = 1;
+function fizzbuzz() {
+output.puch(count);
+count++;
+ consol.log(output);
+}
